@@ -1,0 +1,12 @@
+[submodule "tabby"]
+	path = tabby
+	url = https://github.com/bertvandepoel/tabby.git
+[submodule "DebtCollector"]
+	path = DebtCollector
+	url = https://github.com/holgus103/DebtCollector.git
+[submodule "friend-debt"]
+	path = friend-debt
+	url = https://github.com/MarcioMed07/friend-debt.git
+[submodule "bedehi"]
+	path = bedehi
+	url = https://github.com/reith/bedehi.git
